@@ -32,4 +32,5 @@ Model, aşağıdaki katmanlardan oluşmaktadır:
 - **Kayıp Fonksiyonu**: Çok sınıflı sınıflandırma için categorical_crossentropy kullanılmıştır.
 - **Epoch**: Model, 50 epoch boyunca eğitilmiştir.
 
-
+## Kaggle linki: 
+https://www.kaggle.com/code/demetasgaroglu/fish-classification-ann
